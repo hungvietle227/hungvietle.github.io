@@ -2,7 +2,7 @@
 
 #### Technical Skills: C#, JavaScript, TypeScript, Java.
 
-### My CV: [CV](https://static.topcv.vn/topcv-cv-uploads/7edab496f0dbe3213d75b4c0c7393b8d.pdf)
+## My CV: [Link_CV](https://static.topcv.vn/topcv-cv-uploads/7edab496f0dbe3213d75b4c0c7393b8d.pdf)
 
 ## Education
 - Software Engineer | FPT University (_2021 - 2025_)								       		
