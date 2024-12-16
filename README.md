@@ -4,7 +4,7 @@
 
 ## Education
 - Software Engineer | FPT University (_2021 - 2025_)								       		
-
+- GPA: 7.9
 
 ## Work Experience
 **Intern Back-end Developer In FPT SOFTWARE (_02/01/2024 - 02/05/2024_)**
@@ -24,7 +24,7 @@
 - Contribution: Back-end and Front-end Developer.
 
 ### English Center Platform (_03/09/2024 - 29/11/2024_)**
-[Github_FE](https://github.com/hungvietle227/FE_Edumapper_Deploy)
+[Github_FE](https://github.com/hungvietle227/FE_Edumapper_Deploy) 
 [Github_BE](https://github.com/chaowei216/EduMapper)
 
 - Description: A website allowing users to test their level in IETLS with tests and find the best recommendation center.
